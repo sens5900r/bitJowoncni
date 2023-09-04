@@ -1,0 +1,16 @@
+Package: bitJowoncni
+Type: Package
+Title: Datasets from Jowoncni Political Opinion Polls
+Version: 0.2307
+Author: SHIN Jong-Hwa, Kim Dae-Jin
+Maintainer: SHIN Jong-Hwa <shin.jonghwa@modernity.or.kr>
+Description: Provides datasets related to the Straight News, 
+    sourced from the Jowoncni, a political opinion polling company in South Korea.
+License: GPL-3
+Encoding: UTF-8
+Imports: haven
+RoxygenNote: 7.2.3
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2023-09-04 13:10:38 UTC; jhshin
