@@ -8,9 +8,9 @@ Description: Provides datasets related to the Straight News,
     sourced from the Jowoncni, a political opinion polling company in South Korea.
 License: GPL-3
 Encoding: UTF-8
-Imports: haven
+Imports: shiny, haven, shinyalert
 RoxygenNote: 7.2.3
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-09-04 13:10:38 UTC; jhshin
+Packaged: 2023-09-05 07:02:37 UTC; jhshin
