@@ -1,7 +1,7 @@
 Package: bitJowoncni
 Type: Package
 Title: Datasets from Jowoncni Political Opinion Polls
-Version: 0.2307
+Version: 0.2309
 Author: SHIN Jong-Hwa, Kim Dae-Jin
 Maintainer: SHIN Jong-Hwa <shin.jonghwa@modernity.or.kr>
 Description: Provides datasets related to the Straight News, 
@@ -13,4 +13,4 @@ RoxygenNote: 7.2.3
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-09-05 07:02:37 UTC; jhshin
+Packaged: 2023-10-11 02:10:28 UTC; jhshin
