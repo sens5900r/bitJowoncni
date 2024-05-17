@@ -25,7 +25,7 @@ inst/st_news/sav 디렉토리에는 여러 .sav 파일이 포함되어 있습니
 load_st_news_sav() 함수를 사용하면 inst/st_news/sav 디렉토리에 있는 .sav 파일을 쉽게 로드할 수 있습니다.
 
 ```{r}
-data <- load_st_news_sav("st_20307_5.sav") 
+data <- load_st_news_sav("st_2307_5.sav") 
 head(data)
 ```
 
